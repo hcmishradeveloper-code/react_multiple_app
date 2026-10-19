@@ -4,4 +4,17 @@
    box-sizing: border-box;
 }
 
+.quiz_container {
+  border: "1px solid black";
+  width: 350;
+  margin: "auto";
+  padding: "20px 40px";
+  margin-top:"2rem";
+  border-radius: "12px";
+}
 
+.link_click{
+  display: inline-block;
+  padding-top: 10px;
+  text-decoration: none;
+}

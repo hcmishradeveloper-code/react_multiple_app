@@ -46,7 +46,7 @@ function Navigation() {
       <Link className="nav-link" to= "/stepper">13. React Stepper Practice</Link>
       <Link className="nav-link" to= "/kanban_board">14. React Kanban board with Tailwind CSS </Link>
       <span className="section-heading"><i>Screens</i></span>
-      <Link className="nav-link" to="/user_back_red">I. Clicked table background Red</Link>
+      <Link className="nav-link" to="/background_change">I. Clicked table background Red</Link>
       <Link className="nav-link" to="/display_colors">II. Display Color on Click </Link>
       <Link className="nav-link" to="/progress_bar">III. ProgressBar App </Link>
       <Link className="nav-link" to="/dynamic_input">IV. Dynamic Input Fields </Link>
